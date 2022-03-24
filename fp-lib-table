@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "nimh-charger")(type "KiCad")(uri "${KIPRJMOD}/nimh-charger.pretty")(options "")(descr ""))
+)
